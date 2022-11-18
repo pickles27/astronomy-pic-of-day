@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.imageOfDay {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.info {
+  max-width: 100%;
+  margin-top: 16px;
+  color: black;
+  border: solid black 1px;
+  padding: 20px;
+  text-align: left;
+  background-color: lightgray;
+  border-radius: 8px;
+  margin: auto;
+  margin-top: 16px;
+}
